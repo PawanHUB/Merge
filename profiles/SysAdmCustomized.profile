@@ -5,7 +5,7 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
-    <description>Commit one</description>
+    <description>Commit two</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>AddNew__c.AutorabitExtId__c</field>
