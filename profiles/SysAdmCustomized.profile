@@ -4,11 +4,42 @@
         <apexClass>AcC123</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>AcC1234</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AcC1235</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AcC1236</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AcC1237</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <description>Commit 110</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>AddNew__c.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>AddNew__c.AutorabitExtId2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>AddNew__c.AutorabitExtId3__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>AddNew__c.AutorabitExtId4__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <objectPermissions>
