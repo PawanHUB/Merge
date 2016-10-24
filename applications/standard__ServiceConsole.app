@@ -2,8 +2,13 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>standard-home</defaultLandingTab>
     <detailPageRefreshMethod>none</detailPageRefreshMethod>
+    <enableCustomizeMyTabs>false</enableCustomizeMyTabs>
     <enableKeyboardShortcuts>true</enableKeyboardShortcuts>
+    <enableListViewReskin>true</enableListViewReskin>
     <enableMultiMonitorComponents>true</enableMultiMonitorComponents>
+    <enablePinTabs>true</enablePinTabs>
+    <enableTabHover>false</enableTabHover>
+    <enableTabLimits>false</enableTabLimits>
     <isServiceCloudConsole>true</isServiceCloudConsole>
     <keyboardShortcuts>
         <defaultShortcut>
@@ -151,6 +156,11 @@
             <active>false</active>
             <keyCommand>Z</keyCommand>
         </defaultShortcut>
+        <defaultShortcut>
+            <action>REOPEN_LAST_TAB</action>
+            <active>false</active>
+            <keyCommand>SHIFT+C</keyCommand>
+        </defaultShortcut>
     </keyboardShortcuts>
     <listPlacement>
         <location>full</location>
@@ -163,7 +173,35 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
+    <tab>AddNew__c</tab>
+    <tab>Parent1__c</tab>
+    <tab>Child1__c</tab>
+    <tab>Child2__c</tab>
+    <tab>MulCommits__c</tab>
+    <tab>ShaPavObj__c</tab>
+    <tab>CheckDiff__c</tab>
     <workspaceMappings>
+        <mapping>
+            <tab>AddNew__c</tab>
+        </mapping>
+        <mapping>
+            <tab>CheckDiff__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Child1__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Child2__c</tab>
+        </mapping>
+        <mapping>
+            <tab>MulCommits__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Parent1__c</tab>
+        </mapping>
+        <mapping>
+            <tab>ShaPavObj__c</tab>
+        </mapping>
         <mapping>
             <tab>standard-Account</tab>
         </mapping>

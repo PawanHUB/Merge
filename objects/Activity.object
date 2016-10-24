@@ -34,11 +34,10 @@
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
     <fields>
-        <fullName>AutorabitExtId__c</fullName>
-        <description>External Id created by AutoRABIT</description>
-        <externalId>true</externalId>
-        <label>AutorabitExtId__c</label>
-        <length>18</length>
+        <fullName>ShaEZCF__c</fullName>
+        <externalId>false</externalId>
+        <label>ShaEZCF</label>
+        <length>10</length>
         <required>false</required>
         <type>Text</type>
         <unique>false</unique>

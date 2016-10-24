@@ -493,18 +493,6 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWriteTransfer</sharingModel>
-    <validationRules>
-        <fullName>CaseVR1</fullName>
-        <active>false</active>
-        <errorConditionFormula>Description  = &quot;Test2&quot;</errorConditionFormula>
-        <errorMessage>Test2</errorMessage>
-    </validationRules>
-    <validationRules>
-        <fullName>CaseVR2</fullName>
-        <active>false</active>
-        <errorConditionFormula>Description  = &quot;Test&quot;</errorConditionFormula>
-        <errorMessage>Test</errorMessage>
-    </validationRules>
     <webLinks>
         <fullName>UpsellCrosssellOpportunity</fullName>
         <availability>online</availability>

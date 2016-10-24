@@ -5,14 +5,22 @@
         <active>false</active>
     </assignmentRule>
     <assignmentRule>
+        <fullName>ShaEZCAR22</fullName>
+        <active>false</active>
+    </assignmentRule>
+    <assignmentRule>
         <fullName>ShaEZCARN</fullName>
         <active>true</active>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>ShaEZNew</fullName>
+        <active>false</active>
     </assignmentRule>
     <assignmentRule>
         <fullName>Standard</fullName>
         <active>false</active>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>demo.one@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -31,7 +39,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>demo.one@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -50,7 +58,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>demo.one@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -69,7 +77,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>demo.one@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -88,7 +96,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>demo.one@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.Type</field>
