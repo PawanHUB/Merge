@@ -5,7 +5,7 @@ global class LightningForgotPasswordController {
     }
 
     @AuraEnabled
-    public static String forgotPassowrd(String username, String checkEmailUrl) {
+    public static String forgotPassword(String username, String checkEmailUrl) {
         try {
             Site.forgotPassword(username);
             ApexPages.PageReference checkEmailRef = new PageReference(checkEmailUrl);

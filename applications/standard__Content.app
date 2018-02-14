@@ -5,12 +5,4 @@
     <tab>standard-Workspace</tab>
     <tab>standard-ContentSearch</tab>
     <tab>standard-ContentSubscriptions</tab>
-    <tab>standard-ContentFavorites</tab>
-    <tab>AddNew__c</tab>
-    <tab>Parent1__c</tab>
-    <tab>Child1__c</tab>
-    <tab>Child2__c</tab>
-    <tab>MulCommits__c</tab>
-    <tab>ShaPavObj__c</tab>
-    <tab>CheckDiff__c</tab>
 </CustomApplication>

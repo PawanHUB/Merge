@@ -43,6 +43,7 @@ global class LightningLoginFormController {
         return authConfig.getForgotPasswordUrl();
     }
     
+    @TestVisible
     private static Auth.AuthConfiguration getAuthConfig(){
         Id networkId = Network.getNetworkId();
         Auth.AuthConfiguration authConfig = new Auth.AuthConfiguration(networkId,'');

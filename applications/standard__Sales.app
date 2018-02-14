@@ -7,22 +7,15 @@
     <tab>standard-Account</tab>
     <tab>standard-Contact</tab>
     <tab>standard-Opportunity</tab>
-    <tab>standard-ForecastItem</tab>
-    <tab>standard-AdvForecast</tab>
     <tab>standard-Forecasting3</tab>
     <tab>standard-Contract</tab>
     <tab>standard-Order</tab>
-    <tab>standard-Invoice</tab>
     <tab>standard-Case</tab>
     <tab>standard-Solution</tab>
     <tab>standard-Product2</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>AddNew__c</tab>
-    <tab>Parent1__c</tab>
-    <tab>Child1__c</tab>
-    <tab>Child2__c</tab>
-    <tab>MulCommits__c</tab>
-    <tab>ShaPavObj__c</tab>
-    <tab>CheckDiff__c</tab>
+    <tab>Executive_Review__c</tab>
+    <tab>standard-Quote</tab>
+    <tab>Energy_Audit__c</tab>
 </CustomApplication>

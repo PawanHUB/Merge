@@ -29,6 +29,10 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
         <actionName>NewEvent</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -76,6 +80,9 @@
     </fields>
     <fields>
         <fullName>IsPrivate</fullName>
+    </fields>
+    <fields>
+        <fullName>IsReminderSet</fullName>
     </fields>
     <fields>
         <fullName>IsVisibleInSelfService</fullName>
@@ -154,5 +161,5 @@
         <fullName>WhoId</fullName>
         <type>Lookup</type>
     </fields>
-    <sharingModel>Private</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>
